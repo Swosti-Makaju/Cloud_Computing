@@ -69,16 +69,7 @@ azure-flask-storage-app/
 git clone https://github.com/Swosti-Makaju/Cloud_Computing.git
 cd azure-flask-storage-app
 
-## 2. Create Virtual Environment
-
-### Windows
-
-```bash
-python -m venv .venv
-```
-
-
-## 3. Install Dependencies
+## 2. Install Dependencies
 
 ```bash
 pip install flask azure-storage-blob python-dotenv
